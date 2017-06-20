@@ -1,0 +1,7 @@
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\OperatingSystemPlatform\bin\Debug\netcoreapp1.1\OperatingSystemPlatform.deps.json
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\OperatingSystemPlatform\bin\Debug\netcoreapp1.1\OperatingSystemPlatform.dll
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\OperatingSystemPlatform\obj\Debug\netcoreapp1.1\OperatingSystemPlatform.csprojResolveAssemblyReference.cache
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\OperatingSystemPlatform\obj\Debug\netcoreapp1.1\OperatingSystemPlatform.AssemblyInfo.cs
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\OperatingSystemPlatform\bin\Debug\netcoreapp1.1\OperatingSystemPlatform.pdb
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\OperatingSystemPlatform\obj\Debug\netcoreapp1.1\OperatingSystemPlatform.dll
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\OperatingSystemPlatform\obj\Debug\netcoreapp1.1\OperatingSystemPlatform.pdb

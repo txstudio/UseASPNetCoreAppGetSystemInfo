@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{EF0AD5A8-21CA-4C8F-83AA-01118BFF8A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromptManager", "PromptManager\PromptManager.csproj", "{10994E9C-A0BE-46E3-8F51-4FA506DF61DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatingSystemPlatform", "OperatingSystemPlatform\OperatingSystemPlatform.csproj", "{F39BB7DA-54E7-49CD-9807-97A52445B9E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF0AD5A8-21CA-4C8F-83AA-01118BFF8A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0AD5A8-21CA-4C8F-83AA-01118BFF8A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0AD5A8-21CA-4C8F-83AA-01118BFF8A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0AD5A8-21CA-4C8F-83AA-01118BFF8A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10994E9C-A0BE-46E3-8F51-4FA506DF61DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10994E9C-A0BE-46E3-8F51-4FA506DF61DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10994E9C-A0BE-46E3-8F51-4FA506DF61DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10994E9C-A0BE-46E3-8F51-4FA506DF61DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39BB7DA-54E7-49CD-9807-97A52445B9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39BB7DA-54E7-49CD-9807-97A52445B9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39BB7DA-54E7-49CD-9807-97A52445B9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39BB7DA-54E7-49CD-9807-97A52445B9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

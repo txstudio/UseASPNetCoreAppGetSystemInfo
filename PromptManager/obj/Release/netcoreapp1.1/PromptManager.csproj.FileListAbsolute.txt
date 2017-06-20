@@ -1,0 +1,6 @@
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\PromptManager\bin\Release\netcoreapp1.1\PromptManager.deps.json
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\PromptManager\bin\Release\netcoreapp1.1\PromptManager.dll
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\PromptManager\bin\Release\netcoreapp1.1\PromptManager.pdb
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\PromptManager\obj\Release\netcoreapp1.1\PromptManager.AssemblyInfo.cs
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\PromptManager\obj\Release\netcoreapp1.1\PromptManager.dll
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\PromptManager\obj\Release\netcoreapp1.1\PromptManager.pdb

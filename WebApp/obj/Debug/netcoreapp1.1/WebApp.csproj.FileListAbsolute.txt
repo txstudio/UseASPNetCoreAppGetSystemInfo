@@ -1,0 +1,13 @@
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\WebApp\bin\Debug\netcoreapp1.1\WebApp.deps.json
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\WebApp\bin\Debug\netcoreapp1.1\WebApp.runtimeconfig.json
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\WebApp\bin\Debug\netcoreapp1.1\WebApp.runtimeconfig.dev.json
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\WebApp\obj\Debug\netcoreapp1.1\WebApp.csprojResolveAssemblyReference.cache
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\WebApp\obj\Debug\netcoreapp1.1\WebApp.AssemblyInfo.cs
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\WebApp\bin\Debug\netcoreapp1.1\WebApp.dll
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\WebApp\bin\Debug\netcoreapp1.1\WebApp.pdb
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\WebApp\obj\Debug\netcoreapp1.1\WebApp.dll
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\WebApp\obj\Debug\netcoreapp1.1\WebApp.pdb
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\WebApp\bin\Debug\netcoreapp1.1\OperatingSystemPlatform.dll
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\WebApp\bin\Debug\netcoreapp1.1\PromptManager.dll
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\WebApp\bin\Debug\netcoreapp1.1\OperatingSystemPlatform.pdb
+D:\DotNetCore\UseASPNetCoreAppGetSystemInfo\WebApp\bin\Debug\netcoreapp1.1\PromptManager.pdb

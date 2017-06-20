@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Remote Prompt Execute WebApp";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>提供網站伺服器資訊的 ASP.NET Core 應用程式</h1>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <h2>系統資訊</h2>
+        <h3>電腦名稱：@ViewData["HostName"]</h3>
+    </div>
+    <div class="col-md-6">
+        <h2>遠端操作</h2>
+        <div>
+            <a asp-area="" asp-controller="Home" asp-action="Reboot">重新啟動電腦</a>
+        </div>
+    </div>
+</div>
