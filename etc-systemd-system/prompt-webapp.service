@@ -1,0 +1,14 @@
+[Unit]
+Description=.NET Core WebApp exec prompt
+
+[Service]
+WorkingDirectory=/home/wsh/PromptWebApp
+ExecStart=/usr/bin/dotnet /home/wsh/PromptWebApp/WebApp.dll
+Restart=always
+RestartSec=10
+SyslogIdentifier=dotnet-prompt-webapp
+User=root
+Environment=ASPNETCORE_ENVIRONMENT=Production
+
+[Install]
+WantedBy=multi-user.target
