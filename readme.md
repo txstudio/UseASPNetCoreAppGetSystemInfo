@@ -15,20 +15,19 @@
 ### 檔案說明
 
 #### OperatingSystemPlatform
-判斷網站目前架設在哪一個版本的作業系統（Mac, Linux, Windows）
+> 判斷網站目前架設在哪一個版本的作業系統（Mac, Linux, Windows）
 
 #### PromptManager
-透過命令提示字元的方式進行伺服器操作
-提供 Linux 實作與 Windows 實作
+> 透過命令提示字元的方式進行伺服器操作，提供 Linux 實作與 Windows 實作
 
 #### WebApp
-參考 PromptManager 與 OperatingSystemPlatform 提供不同做系統實作命令提示字元操作。
+> 參考 PromptManager 與 OperatingSystemPlatform 提供不同做系統實作命令提示字元操作。
 
 #### etc-systemd-system
-Ubuntu Server 設定服務的設定檔案
+> Ubuntu Server 設定服務的設定檔案
 
 #### release
-網站應用程式部署檔案
+> 網站應用程式部署檔案
 
 
 ### 參考資料
